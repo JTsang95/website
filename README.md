@@ -2,4 +2,8 @@
 
 This is a really awesome website
 
-Updates amde on master on github before rebase
+Updates made on master on github before rebase
+
+## Purpose
+
+This file is just a readme file.
